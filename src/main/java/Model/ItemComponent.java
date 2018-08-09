@@ -13,6 +13,7 @@ public abstract class ItemComponent {
         this.quantity = quantity;
     }
 
+
     public String getName() {
         return name;
     }

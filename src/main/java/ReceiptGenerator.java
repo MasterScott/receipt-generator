@@ -1,11 +1,8 @@
 import Model.ItemComponent;
 import Model.Items;
-import Model.MedicalItem;
-import Model.NonMedicalItem;
 import javafx.util.Pair;
 
 import java.text.DecimalFormat;
-import java.util.Iterator;
 import java.util.Map;
 
 public class ReceiptGenerator {
